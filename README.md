@@ -19,7 +19,7 @@ This project focuses on predicting the **demand for bike rentals** using machine
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bike-rental-demand-prediction.git
+   git clone https://github.com/bairi56/bike-rental-demand-prediction.git
    ```
 2. Install dependencies:
    ```sh
@@ -31,7 +31,4 @@ This project focuses on predicting the **demand for bike rentals** using machine
 - Implement deep learning models for better accuracy.
 - Integrate real-time rental demand forecasting.
 - Optimize feature selection using automated techniques.
-
-## 📜 License
-This project is open-source and available under the MIT License.
 
